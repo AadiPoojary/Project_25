@@ -39,7 +39,7 @@ function setup() {
 
 function draw() {
   
-  background("lightgrey");
+  background("white");
 
   Engine.update(engine);
   
